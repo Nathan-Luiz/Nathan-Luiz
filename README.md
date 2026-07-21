@@ -3,7 +3,7 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## Olá! 👋
+## Olá!
 Sou Nathan, um estudante do ensino médio e do curso de Desenvolvimento de Sistemas.
 ### Entre meus principais interesses, tem:
 - Jogos
@@ -19,7 +19,7 @@ Meu objetivo é aprender cada vez mais sobre programação, sempre em busca de e
 ### Contato:
 Discord: gatalino
 
-## O que eu estudo? 💻​
+## O que eu estudo?​
 Além do ensino médio, estudo as seguintes linguagens no curso de Desenvolvimento de Sistemas:
 - HTML
 - CSS
@@ -30,14 +30,14 @@ Além do ensino médio, estudo as seguintes linguagens no curso de Desenvolvimen
 - Python
 - SQL
 
-## Atualmente aprendendo por fora do curso 📱
+## Atualmente aprendendo por fora do curso
 
 - Tool Calling
 - Engenharia de Prompt
 - Estruturação de projetos em Python
 - Arquitetura de agentes de IA
 
-## Projeto em destaque 🤖​
+## Projeto em destaque
 ### Snow AI
 
 Uma assistente de IA local desenvolvida em Python utilizando Ollama.
